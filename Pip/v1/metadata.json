@@ -1,0 +1,15 @@
+{
+  "name": "Pip",
+  "version": 1,
+  "chatgpt_pet_id": "pet_6acdda6d6a148191b6e4968b7cd9093a",
+  "description": "A small clay fox with bright, curious eyes and a steady, helpful nature—quietly thinking, checking, and celebrating alongside you.",
+  "sprite_sheet": "Pip-spritesheet.png",
+  "sprite_version": 2,
+  "format": "PNG",
+  "dimensions": {"width": 1536, "height": 2288},
+  "cell": {"width": 192, "height": 208, "columns": 8, "rows": 11},
+  "frames_per_row": [6, 8, 8, 4, 5, 8, 6, 6, 6, 8, 8],
+  "standard_rows": ["idle", "running-right", "running-left", "waving", "jumping", "failed", "waiting", "running", "review"],
+  "look_direction_rows": ["000-157.5", "180-337.5"],
+  "sha256": "860128ab5c74f17bd936999371d60c78938c0b632c5326c5c15b935da4438b73"
+}
